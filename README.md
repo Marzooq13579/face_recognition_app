@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# SmartBrain - v1
-Final project for ZTM course
+
+A face reconginition website built with React, Express, Potgres and Clarifai API
 
 1. Clone this repo
 2. Run `npm install`
@@ -9,8 +8,5 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-*visist https://zerotomastery.io/ for more*
-=======
-# face_recognition_app
-A face reconginition website built with React, Express, Potgres and Clarifai API
->>>>>>> 7ad138d (Initial commit)
+
+
